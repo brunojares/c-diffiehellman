@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="tstChaveAssimetrica/tstChaveAssimetrica.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tstChaveAssimetrica/Parceiros/Ana.cs">
+    <Files>
+      <File FileName="tstChaveAssimetrica/Parceiros/Ana.cs" Line="14" Column="19" />
+      <File FileName="tstChaveAssimetrica/Parceiros/Beto.cs" Line="14" Column="19" />
+      <File FileName="Lib/Interlocutor.cs" Line="11" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
